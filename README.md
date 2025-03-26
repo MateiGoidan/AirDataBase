@@ -72,6 +72,7 @@ This project includes advanced PL/SQL constructs implemented through stored proc
     - Define a package that includes complex data types and objects required for an integrated flow of actions specific to the defined database (at least 2 data types, at least 2 functions, and at least 2 procedures).
 
 ## Technologies
-    - **Database:** Oracle
-    - **Language:** SQL, PL/SQL
-    - **Tools:** SQL Developer, dbdiagram.io, diagrams.net
+
+- **Database:** Oracle
+- **Language:** SQL, PL/SQL
+- **Tools:** SQL Developer, dbdiagram.io, diagrams.net
