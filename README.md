@@ -34,7 +34,7 @@ The system captures the interactions between passengers, flights, airlines, airc
 
 - **1:1** – Passengers ↔ Documents, Flights ↔ Airplanes, Flights ↔ Airline
 - **1:N** – Passengers → Luggage, Airlines → Employees, Airlines → Airplanes, Airports → Flights (twice for departure/arrival)
-- **N:M** – Airplanes ↔ Employees, Passengers ↔ Flights (via Journeys)
+- **N:N** – Airplanes ↔ Employees, Passengers ↔ Flights (via Journeys)
 
 ---
 
